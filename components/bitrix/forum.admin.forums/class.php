@@ -9,7 +9,7 @@ use \Bitrix\Vote\Base\Diag;
 use Bitrix\Main\Grid\Options;
 
 Loc::loadMessages(__FILE__);
-
+/** test changes **/
 class CForumAdminMessages extends \CBitrixComponent
 {
 	/** @var ErrorCollection */
